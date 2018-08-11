@@ -16,18 +16,7 @@ Terminal commands:
     
     
     
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
+Things to possibly cover:
 
 * How to run the test suite
 
